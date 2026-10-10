@@ -34,7 +34,7 @@ public:
 
 int main()
 {
-    Student s1(101, "Bhavesh", "Computer Science");
+    Student s1(101, "Krushna", "Computer Science");
 
     s1.displayDetails();
 
